@@ -1,1 +1,1 @@
-0x01. ES6 Promises Project
+0x01. ES6 Promises
