@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
-function displayMessage(message) {
-	console.log(message);
+function displayMessage(massage) {
+  console.log(massage);
 }
 
 module.exports = displayMessage;
